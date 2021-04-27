@@ -2,26 +2,39 @@ package br.com.unipe.jennerson.model;
 
 public class Moeda {
 	
-	private float valor;
+	private float valorI;
+	private float valorE;
 
 	public Moeda() {
 	}
-
-	public Moeda(float valor) {
+	
+	public Moeda(float valorI, float valorE) {
 		super();
-		this.valor = valor;
+		this.valorI = valorI;
+		this.valorE = valorE;
 	}
 
-	public float getValor() {
-		return valor;
+	public float getValorI() {
+		return valorI;
 	}
 
-	public void setValor(float valor) {
-		this.valor = valor;
+	public void setValorI(float valorI) {
+		this.valorI = valorI;
+	}
+
+	public float getValorE() {
+		return valorE;
+	}
+
+	public void setValorE(float valorE) {
+		this.valorE = valorE;
+	}
+
+	public double ConverterIene() {
+		return (this.valorE * 131.44);
 	}
 	
-	public double Converter() {
-		return (this.valor * 5.55);
+	public double ConverterEuro() {
+		return (this.valorI * 0.0076);
 	}
-	
 }

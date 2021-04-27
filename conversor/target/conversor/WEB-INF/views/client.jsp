@@ -8,10 +8,10 @@
 </head>
 <body>
 	<h1 style="color: #5e9ca0;">Bem vindo(a) à Ferramenta de Conversão Online!</h1>
-	<h2 style="color: #5e9ca0;">Conversão de Dólar para Real</h2>
-	<h3 style="color: #5e9ca0;">Cotação utilizada: 19/04/2021</h3>
+	<h2 style="color: #5e9ca0;">Conversão de Euro para Iene e vice-versa.</h2>
+	<h3 style="color: #5e9ca0;">Cotação utilizada: 27/04/2021</h3>
 	
-	<p>Exercício referente a composição da primeira nota da Disciplina de Programação
+	<p>Exercício referente a composição da prova1 da Disciplina de Programação
 	Avançada para Web <br />Prof Msc Angelo F. Dias Gonçalves <br />
 	Aluno:  Jennerson Barbosa <br />
 	P6-CC NOITE.&nbsp;</p>
