@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [07/Jun/2021:18:09:01 -0300] "GET /intro-spring HTTP/1.1" 302 - http-bio-9090-exec-1 0
+0:0:0:0:0:0:0:1 - - [07/Jun/2021:18:09:01 -0300] "GET /intro-spring/ HTTP/1.1" 200 291 http-bio-9090-exec-2 532
+0:0:0:0:0:0:0:1 - - [07/Jun/2021:18:09:02 -0300] "GET /favicon.ico HTTP/1.1" 404 - http-bio-9090-exec-3 0
+0:0:0:0:0:0:0:1 - - [07/Jun/2021:18:09:06 -0300] "GET /intro-spring/home HTTP/1.1" 404 949 http-bio-9090-exec-4 27
+0:0:0:0:0:0:0:1 - - [07/Jun/2021:18:14:48 -0300] "GET /intro-spring/ HTTP/1.1" 200 291 http-bio-9090-exec-1 80
+0:0:0:0:0:0:0:1 - - [07/Jun/2021:18:14:50 -0300] "GET /intro-spring/ HTTP/1.1" 200 291 http-bio-9090-exec-2 2
+0:0:0:0:0:0:0:1 - - [07/Jun/2021:18:14:50 -0300] "GET /intro-spring/ HTTP/1.1" 200 291 http-bio-9090-exec-3 1
+0:0:0:0:0:0:0:1 - - [07/Jun/2021:18:14:51 -0300] "GET /intro-spring/home HTTP/1.1" 404 949 http-bio-9090-exec-4 23
+0:0:0:0:0:0:0:1 - - [07/Jun/2021:18:14:55 -0300] "GET /intro-spring/home HTTP/1.1" 404 949 http-bio-9090-exec-5 2
+0:0:0:0:0:0:0:1 - - [07/Jun/2021:18:19:23 -0300] "GET /intro-spring/ HTTP/1.1" 200 291 http-bio-9090-exec-1 82
+0:0:0:0:0:0:0:1 - - [07/Jun/2021:18:19:27 -0300] "GET /intro-spring/home HTTP/1.1" 404 1019 http-bio-9090-exec-2 52
+0:0:0:0:0:0:0:1 - - [07/Jun/2021:18:24:11 -0300] "GET /intro-spring/ HTTP/1.1" 200 291 http-bio-9090-exec-1 96
+0:0:0:0:0:0:0:1 - - [07/Jun/2021:18:24:14 -0300] "GET /intro-spring/teste HTTP/1.1" 404 1019 http-bio-9090-exec-2 47
